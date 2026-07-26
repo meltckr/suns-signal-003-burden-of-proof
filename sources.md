@@ -19,8 +19,10 @@ Publication date: July 26, 2026
 - NBA.com, Lakers acquire Walker Kessler: https://www.nba.com/news/walker-kessler-trade-los-angeles-lakers
 - NBA.com, Rockets sign Marcus Smart: https://www.nba.com/news/marcus-smart-free-agency-2026
 - NBA.com, Trail Blazers acquire Ja Morant: https://www.nba.com/news/blazers-grizzlies-ja-morant-trade
+- NBA.com, LeBron James announces he is signing with Philadelphia: https://www.nba.com/news/lebron-james-free-agency-sixers-2026
+- NBA.com, Heat acquire Giannis Antetokounmpo and Bobby Portis: https://www.nba.com/news/reports-heat-acquire-giannis-antetokounmpo-in-blockbuster-deal
+- NBA.com, Jaylen Brown heads to Philadelphia for Paul George and draft picks: https://www.nba.com/news/4-takeaways-jaylen-brown-paul-george-trade
 - Axios Phoenix, “Maluach shines for Suns in NBA Summer League” (July 21): https://www.axios.com/local/phoenix/2026/07/21/nba-summer-league-phoenix-suns-khaman-maluach-koa-peat-rasheer-fleming
-- NBA.com, NBA All-Star future locations: https://www.nba.com/news/nba-all-star-weekend-future-locations
 
 ## Representative social reaction
 
@@ -39,8 +41,9 @@ This edition prioritizes official NBA transaction records, direct press-conferen
 - Verified Gregory’s and Bridges’ press-conference statements against Arizona Sports’ reporting and embedded 35-minute video.
 - Verified Phoenix’s re-signings and Kennard addition against NBA.com’s team-by-team offseason tracker.
 - Verified the Kessler, Smart, and Morant transactions against individual NBA.com transaction reports.
+- Verified James’ announced move to Philadelphia, the official Antetokounmpo-Portis trade to Miami, and the Brown-George trade against NBA.com.
 - Verified Maluach’s Summer League summary against Axios Phoenix.
 - Verified the three displayed Reddit quotations in their linked r/suns threads.
 - Rechecked the social framing after the ownership-tone revision: the initial trade thread was strongly negative, while the press-conference discussion was more mixed and included positive recognition of the direct approach.
-- Verified NBA All-Star 2027 in Phoenix for February 19-21 against NBA.com.
-- No official release date for Phoenix’s full schedule, media day, training camp, preseason slate, or opening-night matchup was located. Those items are labeled as pending rather than dated.
+- Removed the speculative Phoenix calendar module because the schedule release, media day, training camp, preseason slate, and opening-night matchup have not been announced.
+- Removed the next-edition preview so the brief makes no editorial promise before the next topic is selected.
