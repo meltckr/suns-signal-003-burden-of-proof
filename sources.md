@@ -13,9 +13,14 @@ Publication date: July 26, 2026
 ## Phoenix roster and league market
 
 - NBA.com, every 2026 offseason deal by team: https://www.nba.com/news/nba-offseason-deals-2026
-- NBA.com, 2026 free agency roundup: https://www.nba.com/news/2026-nba-offseason-roundup
+- NBA.com, Suns re-sign Collin Gillespie and Jordan Goodwin: https://www.nba.com/news/suns-resign-collin-gillespie-jordan-goodwin
+- NBA.com, Mark Williams signs three-year deal to return: https://www.nba.com/news/mark-williams-return-to-suns
+- NBA.com, Luke Kennard signs with Phoenix: https://www.nba.com/news/luke-kennard-suns-deal
+- NBA.com, Lakers acquire Walker Kessler: https://www.nba.com/news/walker-kessler-trade-los-angeles-lakers
+- NBA.com, Rockets sign Marcus Smart: https://www.nba.com/news/marcus-smart-free-agency-2026
+- NBA.com, Trail Blazers acquire Ja Morant: https://www.nba.com/news/blazers-grizzlies-ja-morant-trade
 - Axios Phoenix, “Maluach shines for Suns in NBA Summer League” (July 21): https://www.axios.com/local/phoenix/2026/07/21/nba-summer-league-phoenix-suns-khaman-maluach-koa-peat-rasheer-fleming
-- NBA.com, key dates for 2026-27: https://www.nba.com/news/key-dates
+- NBA.com, NBA All-Star future locations: https://www.nba.com/news/nba-all-star-weekend-future-locations
 
 ## Representative social reaction
 
@@ -26,4 +31,15 @@ Publication date: July 26, 2026
 
 ## Method note
 
-This edition prioritizes official NBA transaction records, direct press-conference reporting from the Suns’ local rights-holder ecosystem, and clearly labeled representative social reaction. Reddit is used to detect themes and intensity, not to claim a scientific measure of the entire fan base. The calendar section distinguishes confirmed NBA dates from expected timing; the 2026-27 regular-season schedule had not been located as officially released at preparation time.
+This edition prioritizes official NBA transaction records, direct press-conference reporting from the Suns’ local rights-holder ecosystem, and clearly labeled representative social reaction. Reddit is used to detect themes and intensity, not to claim a scientific measure of the entire fan base.
+
+## Accuracy audit — July 25, 2026
+
+- Verified the Bridges trade date and full asset package against NBA.com.
+- Verified Gregory’s and Bridges’ press-conference statements against Arizona Sports’ reporting and embedded 35-minute video.
+- Verified Phoenix’s re-signings and Kennard addition against NBA.com’s team-by-team offseason tracker.
+- Verified the Kessler, Smart, and Morant transactions against individual NBA.com transaction reports.
+- Verified Maluach’s Summer League summary against Axios Phoenix.
+- Verified the three displayed Reddit quotations in their linked r/suns threads.
+- Verified NBA All-Star 2027 in Phoenix for February 19-21 against NBA.com.
+- No official release date for Phoenix’s full schedule, media day, training camp, preseason slate, or opening-night matchup was located. Those items are labeled as pending rather than dated.
