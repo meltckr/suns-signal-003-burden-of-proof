@@ -41,5 +41,6 @@ This edition prioritizes official NBA transaction records, direct press-conferen
 - Verified the Kessler, Smart, and Morant transactions against individual NBA.com transaction reports.
 - Verified Maluach’s Summer League summary against Axios Phoenix.
 - Verified the three displayed Reddit quotations in their linked r/suns threads.
+- Rechecked the social framing after the ownership-tone revision: the initial trade thread was strongly negative, while the press-conference discussion was more mixed and included positive recognition of the direct approach.
 - Verified NBA All-Star 2027 in Phoenix for February 19-21 against NBA.com.
 - No official release date for Phoenix’s full schedule, media day, training camp, preseason slate, or opening-night matchup was located. Those items are labeled as pending rather than dated.
