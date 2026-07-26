@@ -39,7 +39,6 @@ Read: anger about the off-court history was intensified by the departure of two 
 
 ## Confidence and limits
 
-- Strong confidence in the direction and intensity of accessible Reddit reaction.
+- Confidence is limited to the direction and intensity of the reviewed Reddit threads.
 - Low confidence in any exact percentage estimate for the total Suns fan base.
 - No claim that Reddit demographics represent all ticket buyers, partners, employees, or community stakeholders.
-- A 28% visual meter is an editorial temperature indicator, not a survey result.
